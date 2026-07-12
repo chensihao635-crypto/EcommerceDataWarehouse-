@@ -1,0 +1,507 @@
+{
+  "user_overview": {
+    "data": [
+      {
+        "total_users": 3920,
+        "repeat_users": 2570,
+        "avg_amount": 1864.39,
+        "max_amount": 259657.3,
+        "min_amount": 3.75,
+        "total_revenue": 7308391.55,
+        "country": "United Kingdom"
+      },
+      {
+        "total_users": 9,
+        "repeat_users": 5,
+        "avg_amount": 31716.26,
+        "max_amount": 280206.02,
+        "min_amount": 91.85,
+        "total_revenue": 285446.34,
+        "country": "Netherlands"
+      },
+      {
+        "total_users": 3,
+        "repeat_users": 3,
+        "avg_amount": 88515.3,
+        "max_amount": 143825.06,
+        "min_amount": 4341.21,
+        "total_revenue": 265545.9,
+        "country": "EIRE"
+      },
+      {
+        "total_users": 94,
+        "repeat_users": 68,
+        "avg_amount": 2434.76,
+        "max_amount": 19824.05,
+        "min_amount": 63.0,
+        "total_revenue": 228867.14,
+        "country": "Germany"
+      },
+      {
+        "total_users": 87,
+        "repeat_users": 59,
+        "avg_amount": 2402.58,
+        "max_amount": 18895.91,
+        "min_amount": 73.5,
+        "total_revenue": 209024.05,
+        "country": "France"
+      },
+      {
+        "total_users": 9,
+        "repeat_users": 9,
+        "avg_amount": 15545.72,
+        "max_amount": 124914.53,
+        "min_amount": 373.65,
+        "total_revenue": 139911.45,
+        "country": "Australia"
+      },
+      {
+        "total_users": 28,
+        "repeat_users": 18,
+        "avg_amount": 2156.17,
+        "max_amount": 13400.24,
+        "min_amount": 95.2,
+        "total_revenue": 60372.85,
+        "country": "Spain"
+      },
+      {
+        "total_users": 20,
+        "repeat_users": 15,
+        "avg_amount": 2820.96,
+        "max_amount": 11072.67,
+        "min_amount": 430.57,
+        "total_revenue": 56419.29,
+        "country": "Switzerland"
+      },
+      {
+        "total_users": 24,
+        "repeat_users": 18,
+        "avg_amount": 1731.3,
+        "max_amount": 5226.23,
+        "min_amount": 84.3,
+        "total_revenue": 41551.26,
+        "country": "Belgium"
+      },
+      {
+        "total_users": 8,
+        "repeat_users": 4,
+        "avg_amount": 4797.29,
+        "max_amount": 31906.82,
+        "min_amount": 185.9,
+        "total_revenue": 38378.33,
+        "country": "Sweden"
+      }
+    ],
+    "summary": {
+      "top_country": "United Kingdom",
+      "top_revenue": 7308391.55
+    }
+  },
+  "monthly_trend": {
+    "data": [
+      {
+        "month": "2010-12",
+        "order_count": 1400,
+        "customer_count": 885,
+        "total_quantity": 312265.0,
+        "total_revenue": 572713.89,
+        "avg_order_amount": 21.9
+      },
+      {
+        "month": "2011-01",
+        "order_count": 987,
+        "customer_count": 741,
+        "total_quantity": 349098.0,
+        "total_revenue": 569445.04,
+        "avg_order_amount": 26.82
+      },
+      {
+        "month": "2011-02",
+        "order_count": 997,
+        "customer_count": 758,
+        "total_quantity": 265622.0,
+        "total_revenue": 447137.35,
+        "avg_order_amount": 22.44
+      },
+      {
+        "month": "2011-03",
+        "order_count": 1321,
+        "customer_count": 974,
+        "total_quantity": 348503.0,
+        "total_revenue": 595500.76,
+        "avg_order_amount": 21.91
+      },
+      {
+        "month": "2011-04",
+        "order_count": 1149,
+        "customer_count": 856,
+        "total_quantity": 292222.0,
+        "total_revenue": 469200.36,
+        "avg_order_amount": 20.72
+      },
+      {
+        "month": "2011-05",
+        "order_count": 1555,
+        "customer_count": 1056,
+        "total_quantity": 373601.0,
+        "total_revenue": 678594.56,
+        "avg_order_amount": 23.96
+      },
+      {
+        "month": "2011-06",
+        "order_count": 1393,
+        "customer_count": 991,
+        "total_quantity": 363699.0,
+        "total_revenue": 661213.69,
+        "avg_order_amount": 24.32
+      },
+      {
+        "month": "2011-07",
+        "order_count": 1331,
+        "customer_count": 949,
+        "total_quantity": 369420.0,
+        "total_revenue": 600091.01,
+        "avg_order_amount": 22.37
+      },
+      {
+        "month": "2011-08",
+        "order_count": 1280,
+        "customer_count": 935,
+        "total_quantity": 398121.0,
+        "total_revenue": 645343.9,
+        "avg_order_amount": 23.9
+      },
+      {
+        "month": "2011-09",
+        "order_count": 1755,
+        "customer_count": 1266,
+        "total_quantity": 544897.0,
+        "total_revenue": 952838.38,
+        "avg_order_amount": 23.8
+      },
+      {
+        "month": "2011-10",
+        "order_count": 1929,
+        "customer_count": 1364,
+        "total_quantity": 593900.0,
+        "total_revenue": 1039318.79,
+        "avg_order_amount": 20.97
+      },
+      {
+        "month": "2011-11",
+        "order_count": 2657,
+        "customer_count": 1664,
+        "total_quantity": 669051.0,
+        "total_revenue": 1161817.38,
+        "avg_order_amount": 18.0
+      },
+      {
+        "month": "2011-12",
+        "order_count": 778,
+        "customer_count": 615,
+        "total_quantity": 287413.0,
+        "total_revenue": 518192.79,
+        "avg_order_amount": 29.95
+      }
+    ],
+    "summary": {
+      "best_month": "2011-11",
+      "worst_month": "2011-02"
+    }
+  },
+  "product_performance": {
+    "data": [
+      {
+        "stock_code": "23843",
+        "description": "PAPER CRAFT , LITTLE BIRDIE",
+        "total_quantity": 80995.0,
+        "total_revenue": 168469.6,
+        "order_count": 1,
+        "avg_price": 2.08
+      },
+      {
+        "stock_code": "22423",
+        "description": "REGENCY CAKESTAND 3 TIER",
+        "total_quantity": 12402.0,
+        "total_revenue": 142592.95,
+        "order_count": 1703,
+        "avg_price": 12.48
+      },
+      {
+        "stock_code": "85123A",
+        "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+        "total_quantity": 36725.0,
+        "total_revenue": 100448.15,
+        "order_count": 1971,
+        "avg_price": 2.89
+      },
+      {
+        "stock_code": "85099B",
+        "description": "JUMBO BAG RED RETROSPOT",
+        "total_quantity": 46181.0,
+        "total_revenue": 85220.78,
+        "order_count": 1600,
+        "avg_price": 2.02
+      },
+      {
+        "stock_code": "23166",
+        "description": "MEDIUM CERAMIC TOP STORAGE JAR",
+        "total_quantity": 77916.0,
+        "total_revenue": 81416.73,
+        "order_count": 195,
+        "avg_price": 1.22
+      },
+      {
+        "stock_code": "POST",
+        "description": "POSTAGE",
+        "total_quantity": 3120.0,
+        "total_revenue": 77803.96,
+        "order_count": 1099,
+        "avg_price": 31.57
+      },
+      {
+        "stock_code": "47566",
+        "description": "PARTY BUNTING",
+        "total_quantity": 15291.0,
+        "total_revenue": 68844.33,
+        "order_count": 1379,
+        "avg_price": 4.88
+      },
+      {
+        "stock_code": "84879",
+        "description": "ASSORTED COLOUR BIRD ORNAMENT",
+        "total_quantity": 35362.0,
+        "total_revenue": 56580.34,
+        "order_count": 1375,
+        "avg_price": 1.68
+      },
+      {
+        "stock_code": "M",
+        "description": "Manual",
+        "total_quantity": 7173.0,
+        "total_revenue": 53779.93,
+        "order_count": 253,
+        "avg_price": 175.29
+      },
+      {
+        "stock_code": "23084",
+        "description": "RABBIT NIGHT LIGHT",
+        "total_quantity": 27202.0,
+        "total_revenue": 51346.2,
+        "order_count": 801,
+        "avg_price": 2.01
+      },
+      {
+        "stock_code": "79321",
+        "description": "CHILLI LIGHTS",
+        "total_quantity": 9650.0,
+        "total_revenue": 46286.51,
+        "order_count": 519,
+        "avg_price": 5.43
+      },
+      {
+        "stock_code": "22086",
+        "description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+        "total_quantity": 15617.0,
+        "total_revenue": 42660.83,
+        "order_count": 980,
+        "avg_price": 2.94
+      },
+      {
+        "stock_code": "22502",
+        "description": "PICNIC BASKET WICKER 60 PIECES",
+        "total_quantity": 61.0,
+        "total_revenue": 39619.5,
+        "order_count": 2,
+        "avg_price": 649.5
+      },
+      {
+        "stock_code": "21137",
+        "description": "BLACK RECORD COVER FRAME",
+        "total_quantity": 11406.0,
+        "total_revenue": 39064.55,
+        "order_count": 313,
+        "avg_price": 3.66
+      },
+      {
+        "stock_code": "22386",
+        "description": "JUMBO BAG PINK POLKADOT",
+        "total_quantity": 20165.0,
+        "total_revenue": 37289.59,
+        "order_count": 871,
+        "avg_price": 2.02
+      },
+      {
+        "stock_code": "23284",
+        "description": "DOORMAT KEEP CALM AND COME IN",
+        "total_quantity": 5342.0,
+        "total_revenue": 35913.85,
+        "order_count": 648,
+        "avg_price": 7.91
+      },
+      {
+        "stock_code": "23298",
+        "description": "SPOTTY BUNTING",
+        "total_quantity": 7639.0,
+        "total_revenue": 35539.25,
+        "order_count": 1003,
+        "avg_price": 4.92
+      },
+      {
+        "stock_code": "82484",
+        "description": "WOOD BLACK BOARD ANT WHITE FINISH",
+        "total_quantity": 5921.0,
+        "total_revenue": 34478.01,
+        "order_count": 604,
+        "avg_price": 7.46
+      },
+      {
+        "stock_code": "22720",
+        "description": "SET OF 3 CAKE TINS PANTRY DESIGN ",
+        "total_quantity": 7020.0,
+        "total_revenue": 33347.8,
+        "order_count": 1146,
+        "avg_price": 4.95
+      },
+      {
+        "stock_code": "22960",
+        "description": "JAM MAKING SET WITH JARS",
+        "total_quantity": 8151.0,
+        "total_revenue": 32662.97,
+        "order_count": 878,
+        "avg_price": 4.18
+      }
+    ],
+    "summary": {
+      "top_product": "PAPER CRAFT , LITTLE BIRDIE",
+      "top_revenue": 168469.6
+    }
+  },
+  "customer_segments": {
+    "data": {
+      "活跃客户": 2350,
+      "高价值客户": 1003,
+      "普通客户": 866,
+      "流失客户": 119
+    },
+    "summary": {
+      "活跃客户": 2350,
+      "高价值客户": 1003,
+      "普通客户": 866,
+      "流失客户": 119
+    }
+  },
+  "regional_distribution": {
+    "data": [
+      {
+        "country": "United Kingdom",
+        "order_count": 16646,
+        "customer_count": 3920,
+        "total_revenue": 7308391.55,
+        "avg_order_amount": 20.63
+      },
+      {
+        "country": "Netherlands",
+        "order_count": 94,
+        "customer_count": 9,
+        "total_revenue": 285446.34,
+        "avg_order_amount": 121.0
+      },
+      {
+        "country": "EIRE",
+        "order_count": 260,
+        "customer_count": 3,
+        "total_revenue": 265545.9,
+        "avg_order_amount": 36.7
+      },
+      {
+        "country": "Germany",
+        "order_count": 457,
+        "customer_count": 94,
+        "total_revenue": 228867.14,
+        "avg_order_amount": 25.32
+      },
+      {
+        "country": "France",
+        "order_count": 389,
+        "customer_count": 87,
+        "total_revenue": 209024.05,
+        "avg_order_amount": 25.06
+      },
+      {
+        "country": "Australia",
+        "order_count": 57,
+        "customer_count": 9,
+        "total_revenue": 138521.31,
+        "avg_order_amount": 117.19
+      },
+      {
+        "country": "Spain",
+        "order_count": 90,
+        "customer_count": 30,
+        "total_revenue": 61577.11,
+        "avg_order_amount": 24.79
+      },
+      {
+        "country": "Switzerland",
+        "order_count": 51,
+        "customer_count": 21,
+        "total_revenue": 56443.95,
+        "avg_order_amount": 30.66
+      },
+      {
+        "country": "Belgium",
+        "order_count": 98,
+        "customer_count": 25,
+        "total_revenue": 41196.34,
+        "avg_order_amount": 20.28
+      },
+      {
+        "country": "Sweden",
+        "order_count": 36,
+        "customer_count": 8,
+        "total_revenue": 38378.33,
+        "avg_order_amount": 85.1
+      },
+      {
+        "country": "Japan",
+        "order_count": 19,
+        "customer_count": 8,
+        "total_revenue": 37416.37,
+        "avg_order_amount": 116.56
+      },
+      {
+        "country": "Norway",
+        "order_count": 36,
+        "customer_count": 10,
+        "total_revenue": 36165.44,
+        "avg_order_amount": 33.77
+      },
+      {
+        "country": "Portugal",
+        "order_count": 57,
+        "customer_count": 19,
+        "total_revenue": 33439.89,
+        "avg_order_amount": 22.87
+      },
+      {
+        "country": "Finland",
+        "order_count": 41,
+        "customer_count": 12,
+        "total_revenue": 22546.08,
+        "avg_order_amount": 32.91
+      },
+      {
+        "country": "Singapore",
+        "order_count": 7,
+        "customer_count": 1,
+        "total_revenue": 21279.29,
+        "avg_order_amount": 95.85
+      }
+    ],
+    "summary": {
+      "top_country": "United Kingdom",
+      "country_count": 15
+    }
+  }
+}

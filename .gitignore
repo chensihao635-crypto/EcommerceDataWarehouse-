@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Data files (large)
+*.xlsx
+data/ods/*.csv
+data/dwd/*.csv
+data/dws/*.csv
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.config
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,5 +1,9 @@
 # 电商用户订单数据仓库分析平台 (EcommerceDataWarehouse)
 
+## AI 自然语言查数
+
+已接入本机 MySQL 的独立只读账号，支持查询计划校验、参数化 SQL、指标口径与结果追溯。运行 `powershell -File ./run_ai.ps1 "2011年11月销售额最高的五个国家是哪些？"`。本地模型与评测说明见 [AI_README.md](AI_README.md)。模型未就绪时仍可运行 `python ai_assistant.py --plan demo_plan.json` 验证数据库查询。
+
 基于 UCI Online Retail 真实电商交易数据，设计并实现端到端数据仓库分析平台。使用 Python 完成 ETL 流程，构建星型模型维度建模，数据存储于 MySQL，并通过 SQL 和 Python 完成多维度业务分析与可视化。
 
 ## 技术栈

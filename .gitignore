@@ -28,3 +28,14 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+# AI local runtime and credentials
+.deps/
+.venv/
+.local_ai.json
+__pycache__/
+*.pyc
+config/config.yaml
+data/
+logs/
+.env
+*.download

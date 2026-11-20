@@ -1,0 +1,14 @@
+database:
+  host: localhost
+  port: 3306
+  name: ecommerce_dw
+  user: root
+  password: "CHANGE_ME"
+data:
+  source_file: "../data/online+retail/Online Retail.xlsx"
+  sheet_name: "Online Retail"
+etl:
+  source_file: "../data/online+retail/Online Retail.xlsx"
+  log_file: "logs/etl.log"
+  log_level: INFO
+  batch_size: 5000
